@@ -10,12 +10,14 @@ EDUCATION
 ---------
 
 **Western Washington University (WWU)**		Bellingham, WA
+
 **Bachelor of Science in Computer Science**	Jun 2017
 
 SKILLS
 ---------
 **Languages:**		
 Most experienced with Java, HTML/CSS
+
 Some experience with Javascript, Python, C/C++
 
 **Operating Systems:**
@@ -23,6 +25,7 @@ Linux Ubuntu, Windows
 
 **Frameworks:**
 Some experience with D3.js
+
 Dabbling knowledge of React
 
 **Tools:**
