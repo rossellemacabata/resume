@@ -16,20 +16,20 @@ EDUCATION
 SKILLS
 ---------
 **Languages:**		
-Most experienced with Java, HTML/CSS
+:	Most experienced with Java, HTML/CSS
 
-Some experience with Javascript, Python, C/C++
+	Some experience with Javascript, Python, C/C++
 
 **Operating Systems:**
-Linux Ubuntu, Windows
+:	Linux Ubuntu, Windows
 
 **Frameworks:**
-Some experience with D3.js
+:	Some experience with D3.js
 
 Dabbling knowledge of React
 
 **Tools:**
-Some experience with MySQL
+:	Some experience with MySQL
 
 WORK EXPERIENCE
 ----------
