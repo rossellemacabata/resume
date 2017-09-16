@@ -9,74 +9,40 @@ Rosselle Macabata
 Education
 ---------
 
-2009-2017 (expected)
+2013-2017 (expected)
 :   **BS, Computer Science**; Western Washington University (Bellingham, WA)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
 Experience
 ----------
 
-**Western Washington University, HCI-Design Research Assistant**
-
+**Western Washington University, HCI-Design Research Assistant** Jan 2017 - Jun 2017
 * Collected and summarized empirical evidence regarding smoking cessation mobile and web applications to evaluate the applications’ usability.
+* Implemented a web-based analytics application for an Android app called MyQuitPal.
+* Implemented a heatmap visualization using D3.js, Python Plotly, HTML/CSS and Jupyter Notebook.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Artemis Connection, Computer Science Intern** Jan 2017 - May 2017
+* Transformed quantitative and qualitative data into engaging, easy to understand infographics for a Seattle Startup Survey that surveyed 315 employees, and the results appeared on the Washington Technology Industry Association (WTIA). 
+* Implemented a prototype of a highlight timeline, using Javascript and HTML/CSS, for the Artemis team to display high points in the company.
 
-**That Other Job You Had**
+**The Western Front, Website Manager** Mar 2016 - Mar 2017 
+* Refactored and enhanced navigation through tweaking Javascript and HTML/CSS for http://www.westernfrontonline.com/ to improve usability and functionality.
+* Integrated and customized a theme tailored for the Editor-in-Chief, via Wordpress.
+* Consistently troubleshooted and tested the site for functionality, ease of use and load time.
 
-Also with a short description.
+**Western Washington University, C++ and Python Teacher Assistant** Jun 2016 - Dec 2016
+* Tutored and reinforced programming lessons by reviewing with students one-on-one and in small groups.
+* Wrote Bash scripts to test and evaluate student work.
 
-Technical Experience
+
+Leadership Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Association for Women in Computing - ACM Chapter, President** Sept 2016 - Jun 2017
+* Oversaw all planning for bi-weekly meetings, and social and technical events, attended by 50+ students quarterly.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+* Focused the club’s vision to build an empowering environment for women and minorities in Computer Science by providing opportunities for outreach, leadership, mentoring, and professional networking.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+* Fundraised over $1200 for students to attend the Grace Hopper Celebration.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+**Association for Computing Machinery, ACM Mentor** Dec 2016 - Jun 2017
+* Volunteered weekly as a tutor for drop-in tutoring services for students in introductory Computer Science courses.
